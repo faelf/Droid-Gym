@@ -48,7 +48,76 @@
   </div>
 </nav>
 
+<header id="join-header" class="container section">
+    <div class="row justify-content-center">
+        <div class="col-12 col-md-8 text-center text-lg-start">
+            <h1 class="display-4">Droid Gym</h1>
+            <p>
+                Thank you for choosing Droid Gym!<br>
+                Please fill out the booking form below with your details and preferred class. <br>
+                A member of our team will contact you as soon as possible to confirm your booking and answer any questions you may have.
+            </p>
+        </div>
+    </div>
+</header>
 
+<main>
+  <!-- Joining Form -->
+  <section id="join-form" class="container section">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-8">
+        <h2 class="display-6">Class Booking</h2>
+        <form action="thank-you.html" method="get">
+          <div class="row">
+            <div class="col-12 col-lg-6 mb-3">
+              <label for="firstname" class="form-label">First Name</label>
+              <input class="form-control" id="firstname" name="firstname" type="text" required>
+            </div>
+            <div class="col-12 col-lg-6 mb-3">
+              <label for="lastname" class="form-label">Last Name</label>
+              <input class="form-control" id="lastname" name="lastname" type="text" required>
+            </div>
+            <div class="col-12 col-lg-6 mb-3">
+              <label for="email" class="form-label">Email</label>
+              <input class="form-control" id="email" name="email" type="email" required>
+            </div>
+            <div class="col-12 col-lg-6 mb-3">
+              <label for="mobile" class="form-label">Mobile number</label>
+              <input class="form-control" id="mobile" name="mobile" type="number" required>
+            </div>
+            <div class="col-12 col-lg-6 mb-3">
+              <label for="classes" class="form-label">Class</label>
+              <select id="classes" class="form-select" name="classes" required>
+                <option value="">Select</option>
+                <option value="boxing">Boxing</option>
+                <option value="yoga">Yoga</option>
+                <option value="jiujitsu">Jiu-Jitsu</option>
+                <option value="personaltraining">Personal Training</option>
+              </select>
+            </div>
+            <div class="col-12 col-lg-6 mb-3">
+              <label for="times" class="form-label">Time</label>
+              <select id="times" class="form-select" name="times" required>
+                <option value="">Select</option>
+                <option value="07.00">7:00</option>
+                <option value="08.00">8:00</option>
+                <option value="18.00">18:00</option>
+                <option value="19.00">19:00</option>
+              </select>
+            </div>
+            <div class="col-12 mb-3">
+              <label for="message" class="form-label">Message</label>
+              <textarea class="form-control" rows="6" id="message" name="message" required></textarea>
+            </div>
+          </div>
+          <div class="text-end">
+            <button type="submit" class="btn btn-primary">Send</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </section>
+</main>
 
 <footer class="container mt-auto">
   <div class="row">
