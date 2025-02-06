@@ -14,14 +14,27 @@
 }
 
 /* General Styles */
-h1, h2, h3, h4, h5, h6 {
-    font-family: var(--headings);
-}
+    /* Text */
+    h1, h2, h3, h4, h5, h6 {
+        font-family: var(--headings);
+    }
 
-p {
-    font-family: var(--textfont);
-    text-align: justify;
-}
+    p {
+        font-family: var(--textfont);
+        text-align: justify;
+    }
+
+    /* Buttons */
+    .custonbutton {
+        background-color: var(--primarycolor);
+        color: #FFF;
+        border: 1px solid #000;
+    }
+
+    .custonbutton:hover {
+        background-color: var(--secondcolor);
+        border: 1px solid #000;
+    }
 
 /* Navbar */
 .navbar-brand {
