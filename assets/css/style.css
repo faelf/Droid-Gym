@@ -67,3 +67,18 @@ footer {
 footer a, footer a:visited {
     color: #FFF;
 }
+
+/* Join Now Page */
+
+.submitbutton {
+    background-color: var(--primarycolor);
+    color: #FFF;
+    border: 1px solid #000;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.submitbutton:hover {
+    background-color: var(--secondcolor);
+    border: 1px solid #000;
+}
