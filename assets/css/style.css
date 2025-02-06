@@ -13,6 +13,16 @@
     --secondcolor: #4cae4f;
 }
 
+/* General Styles */
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--headings);
+}
+
+p {
+    font-family: var(--textfont);
+    text-align: justify;
+}
+
 /* Navbar */
 .navbar-brand {
     font-family: var(--logofont);
