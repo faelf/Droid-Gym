@@ -68,6 +68,24 @@ footer a, footer a:visited {
     color: #FFF;
 }
 
+/* Main Page */
+
+#hero {
+    position: relative;
+    height: 250px;
+    background: url(../images/headerbackground.webp) no-repeat center center/cover;
+}
+
+#hero-text {
+    position: absolute;
+    background: rgba(255, 255, 255, 0.5);
+    width: 250px;
+    padding: 10px;
+    top: 50px;
+    right: 30px;
+    border-radius: 5px;
+}
+
 /* Join Now Page */
 
 .submitbutton {
@@ -81,4 +99,63 @@ footer a, footer a:visited {
 .submitbutton:hover {
     background-color: var(--secondcolor);
     border: 1px solid #000;
+}
+
+
+/* Media Queries */
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+
+    #hero {
+        height: 300px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+    #hero {
+        height: 350px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+    #hero {
+        height: 400px;
+    }
+
+    #hero-text {
+        top: 100px;
+        right: 100px;
+    }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+    #hero {
+        height: 500px;
+    }
+
+    #hero-text {
+        top: 100px;
+        right: 200px;
+    }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+    #hero {
+        height: 600px;
+    }
+
+    #hero-text {
+        top: 150px;
+        right: 200px;
+    }
+
 }
