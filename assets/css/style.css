@@ -32,6 +32,18 @@ nav {
     background-color: var(--primarycolor);
 }
 
+.navbutton {
+    background-color: #FFF;
+    color: #000;
+    border: 1px solid #000;
+}
+
+.navbutton:hover {
+    background-color: var(--secondcolor);
+    border: 1px solid #000;
+}
+
+
 /* Footer */
 
 footer {
