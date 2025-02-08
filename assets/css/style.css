@@ -19,9 +19,15 @@
         font-family: var(--headings);
     }
 
+    h2 {
+        margin: 1.5rem 0;
+        text-align: center;
+    }
+
     p {
         font-family: var(--textfont);
         text-align: justify;
+        hyphens: auto;
     }
 
     /* Buttons */
@@ -70,21 +76,42 @@ footer a, footer a:visited {
 
 /* Main Page */
 
-#hero {
-    position: relative;
-    height: 250px;
-    background: url(../images/headerbackground.webp) no-repeat center center/cover;
-}
+    /* Header */
+    #hero {
+        position: relative;
+        height: 250px;
+        background: url(../images/headerbackground.webp) no-repeat center center/cover;
+    }
 
-#hero-text {
-    position: absolute;
-    background: rgba(255, 255, 255, 0.5);
-    width: 250px;
-    padding: 10px;
-    top: 50px;
-    right: 30px;
-    border-radius: 5px;
-}
+    #hero-text {
+        position: absolute;
+        background: rgba(255, 255, 255, 0.5);
+        width: 250px;
+        padding: 10px;
+        top: 50px;
+        right: 30px;
+        border-radius: 5px;
+    }
+
+    /* Our classes Section */
+    #fit-classes .card {
+        border: none;
+    }
+
+    #fit-classes .card img {
+        border-radius: 10px;
+    }
+
+    /* Testimonials */
+    #testimonials .card {
+        border: none;
+    }
+
+    #testimonials .card img {
+        border-radius: 50%;
+        width: 60%;
+        margin: auto;
+    }
 
 /* Join Now Page */
 
