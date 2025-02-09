@@ -81,10 +81,27 @@ This is the [link](https://faelf.github.io/Droid-Gym/) to the live page.
 - Google Chrome Lighthouse in Developer's Tools
 
 ### Bugs
-- The links weren't working, and checking the HTML, I had misspelled the URL.
+#### Testing The Deployed Page
+- The links weren't working, and checking the HTML, I had misspelled the path.
+
+#### Testing on the W3C Markup Validation
 - After running the W3C Markup Validation, there was a H2 tag missing in the Gallery Section.
 
+#### Testing on the W3C CSS Validation
+- There was no errors found.
 
+#### Testing Using Lighthouse
+- These were the results of the lighthouse:
+![Index Accessibility](/assets/readme/b-index-accessibility.png)
+![Index BP](/assets/readme/b-index-bp.png)
+
+- On the other pages I had the same results. And these are the results after fixing the bugs.
+
+![Index After](/assets/readme/a-index.png)
+![Classes After](/assets/readme/a-classes.png)
+![Gallery After](/assets/readme/a-gallery.png)
+![Join After](/assets/readme/a-join.png)
+![Thank you After](/assets/readme/a-thankyou.png)
 
 [Back to the top](#table-of-contents)
 
