@@ -1,6 +1,8 @@
 # Droid Gym
 This webpage was developed for the Milestone 1, focusing on creating an engaging and functional website for a gym. The design aims to provide an intuitive user experience, featuring essential information such as class timetables, gallery and contact details. The website has a responsive design, and interactive elements to ensure accessibility across different devices.
 
+![Desktop Screenshot](/assets/readme/desktop-screenshot.png)
+
 ## Table of Contents
 1. [User Stories](#user-stories)
 2. [Wireframes](#wireframes)
@@ -33,7 +35,7 @@ This webpage was developed for the Milestone 1, focusing on creating an engaging
 ### Existing Features
 - Navigation bar.
 - Join Us! Section.
-- Classes time table, with prices.
+- Classes time table.
 - Gallery.
 - Thank you page after submitting a request.
 - Footer containing social links, and address.
