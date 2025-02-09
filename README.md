@@ -25,10 +25,18 @@
 
 ## Features
 ### Existing Features
-
+- Navigation bar.
+- Join Us! Section.
+- Classes time table, with prices.
+- Gallery.
+- Thank you page after submitting a request.
+- Footer containing social links, and address.
 
 ### Features Left to Implement
-
+- Dark mode.
+- Payment through the webpage.
+- User log in to see payment history.
+- Shop selling gym clothes.
 
 [Back to the top](#table-of-contents)
 
@@ -42,6 +50,9 @@
 - Google Fonts
 - GitHub
 - VS Code
+- [Favicon Generator](https://favicon.io/emoji-favicons/)
+- [Image Converter](https://www.freeconvert.com/)
+- [Colour Picker](https://www.webfx.com/web-design/color-picker/)
 
 [Back to the top](#table-of-contents)
 
@@ -70,12 +81,33 @@ This is the [link](https://faelf.github.io/Droid-Gym/) to the live page.
 - Google Chrome Lighthouse in Developer's Tools
 
 ### Bugs
+- The links weren't working, and checking the HTML, I had misspelled the URL.
+- After running the W3C Markup Validation, there was a H2 tag missing in the Gallery Section.
+
+
 
 [Back to the top](#table-of-contents)
 
 ## Credits
-
-
+The images were taken from the pages below:
+- Class-boxing.webp - from Pixabay post on Pexels.
+- Class-jj.webp - from RDNE Stock project on Pexels.
+- Class-pt.webp - from Bruno Bueno on Pexels.
+- Class-yoga - from Andrea Piacquadio on Pexels.
+- Hero.webp - from Victor Freitas on Pexels.
+- Gallery-1.webp - from Li Sun on Pexels.
+- Gallery-2.webp - from Bruno Bueno on Pexels.
+- Gallery-3.webp - from Cesar Galeao on Pexels.
+- Gallery-4.webp - from Cesar Galeao on Pexels.
+- Gallery-5.webp - from Cotton Studio on Pexels.
+- Gallery-6.webp - from Cotton Studio on Pexels.
+- Gallery-7.webp - from Leon Ardho on Pexels.
+- Gallery-8.webp - from Andrea Piacquadio on Pexels.
+- Gallery-9.webp - from Pixabay on Pexels.
+- Gallery-10.webp - from Sabel Blanco on Pexels.
+- Gallery-11.webp - from Scott Webb on Pexels.
+- Gallery-12.webp - from Victor Freitas on Pexels.
+- Testemonials pictures were created by ChatGPT
 
 [Back to the top](#table-of-contents)
 
