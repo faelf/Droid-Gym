@@ -176,6 +176,10 @@
     #hero {
         height: 350px;
     }
+
+    .card-text {
+        min-height: 144px;
+    }
 }
 
 /* Large devices (desktops, 992px and up) */
@@ -206,6 +210,10 @@
         top: 100px;
         right: 200px;
     }
+
+    .card-text {
+        min-height: 192px;
+    }
 }
 
 /* XX-Large devices (larger desktops, 1400px and up) */
@@ -218,6 +226,10 @@
     #hero-text {
         top: 150px;
         right: 200px;
+    }
+
+    .card-text {
+        min-height: 144px;
     }
 
 }
