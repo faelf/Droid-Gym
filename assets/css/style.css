@@ -127,6 +127,13 @@
         margin: auto;
     }
 
+/* Classes Page */
+.time-table {
+    text-align: center;
+    width: 270px;
+    margin: auto;
+}
+
 /* Join Now Page */
 
 .submitbutton {
