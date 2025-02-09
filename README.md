@@ -52,6 +52,7 @@ This webpage was developed for the Milestone 1, focusing on creating an engaging
 - CSS
 
 ### Frameworks, Libraries & Programs Used
+- ChatGPT
 - Bootstrap
 - Google Fonts
 - GitHub
@@ -130,7 +131,7 @@ The images were taken from the pages below:
 - Gallery-10.webp - from Sabel Blanco on Pexels.
 - Gallery-11.webp - from Scott Webb on Pexels.
 - Gallery-12.webp - from Victor Freitas on Pexels.
-- Testemonials pictures were created by ChatGPT
+- Testemonials pictures were created by ChatGPT.
 
 [Back to the top](#table-of-contents)
 
