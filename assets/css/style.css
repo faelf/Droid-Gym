@@ -11,6 +11,7 @@
     /* Colours */
     --primarycolor: #2e8a56;
     --secondcolor: #4cae4f;
+    --bs-navbar-color: #FFF;
 }
 
 /* General Styles */
@@ -57,6 +58,18 @@
 
     nav {
         background-color: var(--primarycolor);
+    }
+
+    .navlink {
+        color: #FFF;
+    }
+
+    .navlink:visited {
+        color: #FFF;
+    }
+
+    .current {
+        color: rgba(255, 255, 255, 0.5)
     }
 
     .navbutton {
