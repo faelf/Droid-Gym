@@ -131,10 +131,13 @@
     }
 
 /* Classes Page */
+main img {
+    margin-bottom: 1rem;
+}
 .time-table {
     text-align: center;
     width: 270px;
-    margin: auto;
+    margin: 1rem auto;
 }
 
 /* Join Now Page */
