@@ -30,6 +30,10 @@
         hyphens: auto;
     }
 
+    main {
+        margin-bottom: 2rem;
+    }
+
     /* Buttons */
     .custonbutton {
         background-color: var(--primarycolor);
