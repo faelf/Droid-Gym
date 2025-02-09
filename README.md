@@ -13,7 +13,13 @@ This webpage was developed for the Milestone 1, focusing on creating an engaging
 7. [Credits](#credits)
 
 ## User Stories
-
+- As a gym member, I want to check the class timetable.
+- As a potential gym member, I want to see what the gym offers.
+- As a potential client, I want to see high-quality images of the gym
+- As a new user, I want to find the gym’s contact details easily so that I can enquire about services.
+- As a mobile user, I want the webpage to be responsive, and I want to book a session online.
+- As a first-time visitor, I want to see testimonials from existing members.
+- As a social media user, I want to stay updated on events and news.
 
 [Back to the top](#table-of-contents)
 
