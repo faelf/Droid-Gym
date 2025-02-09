@@ -19,9 +19,8 @@
         font-family: var(--headings);
     }
 
-    h2 {
+    h1, h2 {
         margin: 1.5rem 0;
-        text-align: center;
     }
 
     p {
@@ -95,6 +94,10 @@
         position: relative;
         height: 250px;
         background: url(../images/headerbackground.webp) no-repeat center center/cover;
+    }
+
+    #hero h1 {
+        margin: 0;
     }
 
     #hero-text {
