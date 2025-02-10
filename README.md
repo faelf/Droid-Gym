@@ -94,10 +94,11 @@ This is the [link](https://faelf.github.io/Droid-Gym/) to the live page.
 [Back to the top](#table-of-contents)
 
 ## Testing
-
+These were the validation tools I used:
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
 - [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input)
 - Google Chrome Lighthouse in Developer's Tools
+- [PageSpeed](https://pagespeed.web.dev/)
 
 ### Bugs
 #### Testing The Deployed Page
@@ -115,16 +116,16 @@ Add a H2 tag with a class Hidden, and this was the result
 
 #### Testing Using Lighthouse
 - These were the results of the lighthouse:
-![Index Accessibility](/assets/readme/b-index-accessibility.png)
-![Index BP](/assets/readme/b-index-bp.png)
+![Index Accessibility](/assets/readme/lighthouse/b-index-accessibility.png)
+![Index BP](/assets/readme/lighthouse/b-index-bp.png)
 
 - On the other pages I had the same results. And these are the results after fixing the bugs.
 
-![Index After](/assets/readme/a-index.png)
-![Classes After](/assets/readme/a-classes.png)
-![Gallery After](/assets/readme/a-gallery.png)
-![Join After](/assets/readme/a-join.png)
-![Thank you After](/assets/readme/a-thankyou.png)
+![Index After](/assets/readme/lighthouse/a-index.png)
+![Classes After](/assets/readme/lighthouse/a-classes.png)
+![Gallery After](/assets/readme/lighthouse/a-gallery.png)
+![Join After](/assets/readme/lighthouse/a-join.png)
+![Thank you After](/assets/readme/lighthouse/a-thankyou.png)
 
 #### Testing the deployed page on PageSpeed
 - Testing the index.html
@@ -132,7 +133,6 @@ Add a H2 tag with a class Hidden, and this was the result
     ![index.html pagespeed results image](/assets/readme/pagespeed/b-mobile-index.png)
         - Best Practices Message
         ![index.html message best practices message image](/assets/readme/pagespeed/b-mobile-index-msg-1.png)
-
     - Desktop
     ![index.html](/assets/readme/pagespeed/b-desktop-index.png)
 
