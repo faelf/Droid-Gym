@@ -124,7 +124,7 @@
 
     #hero-text {
         position: absolute;
-        background: rgba(255, 255, 255, 0.5);
+        background: rgba(255, 255, 255, 0.8);
         width: 250px;
         padding: 10px;
         top: 50px;
@@ -187,6 +187,11 @@
         height: 300px;
     }
 
+    #hero-text {
+        width: 300px;
+        padding: 20px;
+    }
+
     #testimonials .card img {
         width: 40%;
     }
@@ -197,6 +202,11 @@
 
     #hero {
         height: 350px;
+    }
+
+    #hero-text {
+        width: 400px;
+        padding: 20px;
     }
 
     .card-text {
