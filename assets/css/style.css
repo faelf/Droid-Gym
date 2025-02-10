@@ -56,6 +56,10 @@
         font-family: var(--logofont);
     }
 
+    .navbar-toggler {
+        border: none;
+    }
+
     nav {
         background-color: var(--primarycolor);
     }
@@ -69,7 +73,7 @@
     }
 
     .current {
-        color: rgba(255, 255, 255, 0.5)
+        text-decoration: underline;
     }
 
     .navbutton {
