@@ -122,6 +122,9 @@ This is the [link](https://faelf.github.io/Droid-Gym/) to the live page.
 ![Join After](/assets/readme/a-join.png)
 ![Thank you After](/assets/readme/a-thankyou.png)
 
+#### Testing the deployed page on PageSpeed
+
+
 [Back to the top](#table-of-contents)
 
 ## Credits
