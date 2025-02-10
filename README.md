@@ -105,9 +105,13 @@ This is the [link](https://faelf.github.io/Droid-Gym/) to the live page.
 
 #### Testing on the W3C Markup Validation
 - After running the W3C Markup Validation, there was a H2 tag missing in the Gallery Section.
+![W3C Validation Result Screenshot](/assets/readme/w3c_validation/w3c-html-validation.png)
+Add a H2 tag with a class Hidden, and this was the result
+![No errors message](/assets/readme/w3c_validation/no-errors.png)
 
 #### Testing on the W3C CSS Validation
 - There was no errors found.
+![Screenshot of W3C CSS Validation](/assets/readme/w3c_validation/w3c-css-validation.png)
 
 #### Testing Using Lighthouse
 - These were the results of the lighthouse:
