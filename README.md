@@ -33,12 +33,23 @@ This webpage was developed for the Milestone 1, focusing on creating an engaging
 
 ## Features
 ### Existing Features
-- Navigation bar.
-- Join Us! Section.
-- Classes time table.
-- Gallery.
-- Thank you page after submitting a request.
-- Footer containing social links, and address.
+- Navigation bar. Responsive to be accessible on any screen size.
+![Navigation Menu](/assets/readme/features/navigation-bar.png)
+
+- Join Us! Section. For new and returning customers to be able to book classes on the go.
+![Booking Form](/assets/readme/features/booking-form.png)
+
+- Classes timetable. For users to check when the classes are available.
+![Timetable](/assets/readme/features/classes-timetable.png)
+
+- Gallery. So people can see the facilities.
+![Gallery of photos](/assets/readme/features/photo-gallery.png)
+
+- Thank you page after submitting a request. To offer feedback to the customer.
+![Submition page](/assets/readme/features/thank-you-page.png)
+
+- Footer containing social links, and address. For customers to be able to keep up to date with information, and see where the gym is.
+![Footer information](/assets/readme/features/footer.png)
 
 ### Features Left to Implement
 - Dark mode.
