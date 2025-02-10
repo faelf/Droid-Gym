@@ -123,7 +123,67 @@ This is the [link](https://faelf.github.io/Droid-Gym/) to the live page.
 ![Thank you After](/assets/readme/a-thankyou.png)
 
 #### Testing the deployed page on PageSpeed
+- Testing the index.html
+    - Mobile
+    ![index.html pagespeed results image](/assets/readme/pagespeed/b-mobile-index.png)
+        - Best Practices Message
+        ![index.html message best practices message image](/assets/readme/pagespeed/b-mobile-index-msg-1.png)
 
+    - Desktop
+    ![index.html](/assets/readme/pagespeed/b-desktop-index.png)
+
+- Testing the classes.html
+    - Mobile
+    ![classes.html pagespeed results image](/assets/readme/pagespeed/b-mobile-classes.png)
+    - Desktop
+    ![classes.html pagespeed results image](/assets/readme/pagespeed/b-desktop-classes.png)
+
+- Testing the gallery.html
+    - Mobile
+    ![gallery.html pagespeed results image](/assets/readme/pagespeed/b-mobile-gallery.png)
+        - Accessibility Warning
+        ![gallery message 1](/assets/readme/pagespeed/b-mobile-gallery-msg-1.png)
+    - Desktop
+    ![gallery.html pagespeed results image](/assets/readme/pagespeed/b-desktop-gallery.png)
+        - The same message result, 'Heading elements are not in a sequentially-descending order.'.
+    
+- Testing the join.html
+    - Mobile
+    ![join.html pagespeed results image](/assets/readme/pagespeed/b-mobile-join.png)
+        - Accessibility Warning
+        ![join.html accessibility message image](/assets/readme/pagespeed/b-mobile-join-msg-1.png)
+    - Desktop
+    ![join.html](/assets/readme/pagespeed/b-desktop-join.png)
+        - The same message result, 'Heading elements are not in a sequentially-descending order.'.
+
+- Testing the thank-you.html
+    - Mobile
+    ![thank-you.html pagespeed results image](/assets/readme/pagespeed/b-mobile-thank-you.png)
+        - Accessibility Warning
+        ![thank-you.html accessibility message image](/assets/readme/pagespeed/b-mobile-thank-you-msg-1.png)
+    - Desktop
+    ![thank-you.html pagespeed results image](/assets/readme/pagespeed/b-desktop-thank-you.png)
+        - The same message result, 'Heading elements are not in a sequentially-descending order.'.
+
+After some considaration, I have decided to keep the quality of the images as they were on the index.html. And fixed the accessibility headings, and the results were:
+
+- Testing the gallery.html
+    - Mobile
+    ![last results on pagespeed](/assets/readme/pagespeed/a-mobile-gallery.png)
+    - Desktop
+    ![last results on pagespeed](/assets/readme/pagespeed/a-desktop-gallery.png)
+
+- Testing the join.html
+    - Mobile
+    ![last results on pagespeed](/assets/readme/pagespeed/a-mobile-join.png)
+    - Desktop
+    ![last results on pagespeed](/assets/readme/pagespeed/a-desktop-join.png)
+
+- Testing the thank-you.html
+    - Mobile
+    ![last results on pagespeed](/assets/readme/pagespeed/a-mobile-thank-you.png)
+    - Desktop
+    ![last results on pagespeed](/assets/readme/pagespeed/a-desktop-thank-you.png)
 
 [Back to the top](#table-of-contents)
 
