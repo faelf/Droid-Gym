@@ -93,19 +93,25 @@ Those were the plans, but they have changed a bit during development.
 
 ## Deployment
 
-To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:
-
-1. I created a public repository.
-2. Logged into Github.
-3. From the list of repositories I selected the repository.
-4. Navigated to the Settings tab.
-5. On the left menu went to Pages.
-6. Chose the main branch for deployment, and clicked on save.
-7. On the code tab, clicked on the engine icon next to about.
-8. Under the website input, checked the option Use your GitHub Pages website.
-9. Saved the changes, and the link to the deployed webpage should appeared.
+- To deploy a page on GitHub follow the steps below:
+1. Create a public repository.
+2. Log into Github.
+3. From the list of repositories select the repository.
+4. Navigate to the Settings tab.
+5. On the left menu go to Pages.
+6. Choose the main branch for deployment, and click on save.
+7. On the code tab, click on the engine icon next to about.
+8. Under the website input, check the option Use your GitHub Pages website.
+9. Save the changes, and the link to the deployed webpage should appear.
 
 This is the [link](https://faelf.github.io/Droid-Gym/) to the live page.
+
+- To make a local copy follow the steps below:
+1. Go to the Github Repository page.
+2. Find the CODE dropdown menu.
+3. Click on Download as Zipfile.
+4. Go to the downloaded place.
+5. Open.
 
 [Back to the top](#table-of-contents)
 
