@@ -26,8 +26,20 @@ This webpage was developed for the Milestone 1, focusing on creating an engaging
 [Back to the top](#table-of-contents)
 
 ## Wireframes
+### Pages
+![Navigation wireframes](/assets/readme/wireframes/navigation.png)
 
+### Mobile
+![Mobile wireframes](/assets/readme/wireframes/mobile.png)
 
+### Tablet
+![Tablet wireframes](/assets/readme/wireframes/tablet.png)
+
+### Desktop
+![Desktop wireframes](/assets/readme/wireframes/desktop.png)
+
+### Comements
+Those were the plans, but they have changed a bit during development.
 
 [Back to the top](#table-of-contents)
 
