@@ -40,6 +40,10 @@ This webpage was developed for the Milestone 1, focusing on creating an engaging
 
 ### Comements
 Those were the plans, but they have changed a bit during development.
+- The navigation, I decided to place a Join Now! button at the corner.
+- I added some Fitness Classes overall description.
+- The Gallery for mobile, instead of 2 images per row, I went for 1.
+- Instead of making the Class Booking form look the same on every screen, I made it responsive.
 
 [Back to the top](#table-of-contents)
 
